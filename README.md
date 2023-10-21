@@ -1,0 +1,2 @@
+# adimofy-mavenApp
+maven build
